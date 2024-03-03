@@ -30,7 +30,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-This is my first time working with React so it took some to get used to it. A lot of things work differently with React than with javascript beyond syntax. So, the majority of the time was spent learning and debugging. However, this was a really fun short project to start the journey of learning React.
+This is my first time working with React so it took some to get used to it. A lot of things work differently with React than with JavaScript beyond syntax. So, the majority of the time was spent learning and debugging. However, this was a really fun short project to start the journey of learning React.
 
 ## License
 
