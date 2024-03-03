@@ -2,7 +2,7 @@
 
 Submitted by: **Mohammed Nazib Hossain Khan**
 
-This web app: **Dive into the vibrant world of Naruto with our Ninja Villages Community Board. Explore legendary villages like Konohagakure and Sunagakure, each represented by beautifully crafted cards featuring village details and links to further information. Connect with fellow ninja enthusiasts and embark on an immersive journey through the hidden realms of the shinobi world.**
+**Dive into the vibrant world of Naruto with our Ninja Villages Community Board. Explore legendary villages like Konohagakure and Sunagakure, each represented by beautifully crafted cards featuring village details and links to further information. Connect with fellow ninja enthusiasts and embark on an immersive journey through the hidden realms of the shinobi world.**
 
 Time spent: **6** hours spent in total
 
