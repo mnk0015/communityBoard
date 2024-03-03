@@ -4,7 +4,7 @@ Submitted by: **Mohammed Nazib Hossain Khan**
 
 This web app: **Dive into the vibrant world of Naruto with our Ninja Villages Community Board. Explore legendary villages like Konohagakure and Sunagakure, each represented by beautifully crafted cards featuring village details and links to further information. Connect with fellow ninja enthusiasts and embark on an immersive journey through the hidden realms of the shinobi world.**
 
-Time spent: **4.5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -15,33 +15,26 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
+- [X] Buttons or links to a related resources are on each card component
+- [X] The site is responsive for both desktop and mobile formats
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='src\assets\ninjaCommunityBoard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is my first time working with react so it took some to get used to. A lot of things work differently with react than javascript beyong syntax. So, majority of the time was spent learning and debugging. However this was a really fun short project to start the journey of learning react.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Mohammed Nazib Hossain Khan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
